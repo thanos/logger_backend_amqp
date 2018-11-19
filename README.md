@@ -1,6 +1,7 @@
 # LoggerBackendAmqp
 
-**TODO: Add description**
+A rabbitmq backend for Elixir's Logger
+
 
 ## Installation
 
